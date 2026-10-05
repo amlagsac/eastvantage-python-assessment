@@ -1,0 +1,12 @@
+[project]
+name = "eastvantage-python-exam"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "amlagsac", email = "andremlagsac@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.142.2",
+]
