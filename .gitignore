@@ -23,6 +23,11 @@ coverage/
 # Virtual environments
 .venv
 
+# Environment and local database
+.env
+*.db
+*.sqlite3
+
 # IDE
 .vscode/
 .idea/
